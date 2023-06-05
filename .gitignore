@@ -5,9 +5,8 @@ __pycache__
 
 # Env
 .env
-myvenv/
 venv/
-django/
+dj/
 
 # Database
 db.sqlite3
